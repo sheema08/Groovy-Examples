@@ -1,0 +1,32 @@
+<invoices>
+	<invoice number='26354'>
+		<price>15000.0</price>
+		<date>17-17-2017</date>
+		<customer>Clinton</customer>
+	</invoice>
+	<invoice number='23354'>
+		<price>27000.0</price>
+		<date>17-17-2017</date>
+		<customer>Clinton</customer>
+	</invoice>
+	<invoice number='16514'>
+		<price>28000.0</price>
+		<date>24-08-2017</date>
+		<customer>Mark</customer>
+	</invoice>
+	<invoice number='35486'>
+		<price>56000.0</price>
+		<date>05-05-2017</date>
+		<customer>Antony</customer>
+	</invoice>
+	<invoice number='21354'>
+		<price>21000.0</price>
+		<date>11-17-2017</date>
+		<customer>Clinton</customer>
+	</invoice>
+	<invoice number='24564'>
+		<price>61000.0</price>
+		<date>04-08-2017</date>
+		<customer>Mark</customer>
+	</invoice>
+</invoices> 

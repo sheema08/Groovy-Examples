@@ -1,0 +1,17 @@
+<assets>
+   <asset id="24577896">
+     <category>Computer</category>
+     <price>6000</price>
+     <status>Available</status>
+   </asset>
+   <asset id="22347656">
+     <category>Palmtop</category>
+     <price>26000</price>
+     <status>Unavailable</status>
+   </asset>
+   <asset id="23277745">
+     <category>Laptop</category>
+     <price>56000</price>
+     <status>Available</status>
+   </asset>
+ </assets>

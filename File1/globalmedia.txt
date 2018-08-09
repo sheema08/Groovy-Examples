@@ -1,0 +1,3 @@
+This agreement may be used to regulate the licensing of software by one business to another.
+This is an agreement for Global Media Player registered under GlobalMedia Inc.
+The licensing provisions are relatively flexible, allowing for different types of licence and different types of licence restriction and prohibition. The document is however unsuitable for the licensing of source code nor should it be used where the copyright in software is being transferred rather than licensed. 
